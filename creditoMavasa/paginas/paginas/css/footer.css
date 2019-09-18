@@ -1,0 +1,25 @@
+.footer{
+    background-color: #ccc;
+    display: block;
+    width: 100%;
+    height: 90px;
+    bottom: 0;
+    position: fixed;
+}
+.footer img{
+    width: 70px;
+    height: 60px;
+}
+.footer b {
+  font-size: 12px;
+ 
+   
+}
+.footer a{
+    text-decoration: none;
+    color: coral;
+}
+.footer a:hover{
+    text-decoration: underline coral;
+    color: coral;
+}

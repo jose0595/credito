@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+	background: #f2f2f2; 
+	font-size: 1em;
+	line-height: 1.5em;
+	
+	padding-top: 150px; /* Relleno superior igual a la altura de la cabecera*/
+}
+
+.div1{
+    background-image: url(../assets/img/usuario.jpg);
+    background-repeat: no-repeat;
+    text-decoration: none;
+    height: 150px;
+    width: 150px;
+      opacity: 0.5;
+    margin-left: 10%;
+    float: left;
+    
+}
+.div1:hover{
+    opacity: 1;
+}
+
+.div2{
+    background: white;
+    text-decoration: none;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin: 0em;
+}
+.azul.mediano{
+    font-family: fantasy;
+    color: darkblue;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+     margin-top: 50px;
+}
+.azul.grande{
+    color: firebrick;
+    font-family: fantasy;
+    font-size: 30px;
+     margin: 70px;
+}
+.div2:hover{
+   opacity: 0.5;
+}
+
+.div3{
+    background-image: url(../assets/img/Prestamos.jpg);
+     background-repeat: no-repeat;
+    text-decoration: none;
+    height: 150px;
+    width: 150px;
+    opacity: 0.5;
+    margin-left: 5%;
+    float: left;
+    
+}
+.div3:hover{
+    opacity: 1;
+}
+
+.div4{
+    background: white;
+    text-decoration: none;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin: 0em;
+    opacity: 1;
+}
+.div4:hover{
+   opacity: 0.5;
+}
+
+.div5{
+    background-image: url(../assets/img/clientes.png);
+     background-repeat: no-repeat;
+    text-decoration: none;
+    height: 150px;
+    width: 150px;
+    opacity: 0.5;
+    margin-left: 5%;
+    float: left;
+    
+}
+.div5:hover{
+    opacity: 1;
+}
+
+.div6{
+    background: white;
+    text-decoration: none;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin: 0em;
+    opacity: 0.5;
+}
+.div6:hover{
+   opacity: 1;
+}
